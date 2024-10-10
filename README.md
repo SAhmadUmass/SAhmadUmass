@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Shaheer Ahmad, I'm an OIM major from Umass Amherst and I made this Github to showcase/track some of my data analytics projects, as well as give a more holistic idea of my proficiency with skills mentioned on my resume. Feel free to take a look.
+My name is Shaheer Ahmad, I'm an OIM major from Umass Amherst and I made this Github to showcase/track some of my Machine Learning/Data Analytics projects, as well as give a more holistic idea of my proficiency with skills mentioned on my resume. Feel free to take a look.
 <!--
 **SAhmadUmass/SAhmadUmass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
